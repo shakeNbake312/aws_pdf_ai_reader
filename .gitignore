@@ -5,8 +5,8 @@
 !.gitignore
 
 # 3) Un-ignore (i.e. include) only the following subfolders
-!/001-fastapi-backend/
-!/002-nextjs-frontend/
+!/001-pdf-fastapi-backend/
+!/002-pdf-vercel-frontend/
 
 # Ignore misc
 .DS_Store
